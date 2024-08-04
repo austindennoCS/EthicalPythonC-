@@ -6,6 +6,15 @@ Brute-Force and Dictionary Attacks
 Hybrid Attack
 Multi-threading
 Performance Metrics
+
+- [Table of Contents](#table-of-contents)
+- [Overview](#overview)
+- [Brute-Force and Dictionary Attacks](#brute-force-and-dictionary-attacks)
+- [Hybrid Attack](#hybrid-attack)
+- [Multi-threading](#multi-threading)
+- [Performance Metrics](#performance-metrics)
+
+  
 Summary
 <h2 id="overview">Overview</h2>
 <b>This guide explains the components of an ethical password cracker built using Python and C++ for educational purposes. It covers various methods and techniques employed to simulate real-world password cracking scenarios, emphasizing learning and understanding over malicious use.</b>
