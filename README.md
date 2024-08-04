@@ -1,21 +1,15 @@
 
 <h1 id="top">Ethical Python and C++ Password Cracker for Educational Purposes</h1>
-Table of Contents
-Overview
-Brute-Force and Dictionary Attacks
-Hybrid Attack
-Multi-threading
-Performance Metrics
 
-- [Table of Contents](#table-of-contents)
+<h2>Table of Contents</h2>
+
 - [Overview](#overview)
 - [Brute-Force and Dictionary Attacks](#brute-force-and-dictionary-attacks)
 - [Hybrid Attack](#hybrid-attack)
 - [Multi-threading](#multi-threading)
 - [Performance Metrics](#performance-metrics)
-
+- [Summary](#summary)
   
-Summary
 <h2 id="overview">Overview</h2>
 <b>This guide explains the components of an ethical password cracker built using Python and C++ for educational purposes. It covers various methods and techniques employed to simulate real-world password cracking scenarios, emphasizing learning and understanding over malicious use.</b>
 <h2 id="brute-force-and-dictionary-attacks">Brute-Force and Dictionary Attacks</h2>
